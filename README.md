@@ -20,4 +20,4 @@ I added a toggle button/link so you can see how the illusion suddenly disappears
 ##usage
 Clone and run **index.html**
 
-![dots](http://imgur.com/ogxOwfj)
+![dots](http://i.imgur.com/ogxOwfj.png)
