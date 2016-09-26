@@ -18,4 +18,6 @@ Notice how all the dots just move up and down a static line. 18 dots, 18 lines a
 I added a toggle button/link so you can see how the illusion suddenly disappears when you see the lines.
 
 ##usage
-Clone and run index.html
+Clone and run **index.html**
+
+![dots](http://imgur.com/ogxOwfj)
